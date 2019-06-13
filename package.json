@@ -14,7 +14,7 @@
     "dist",
     "lib",
     "es",
-    "src/stylesheets"
+    "src"
   ],
   "keywords": [
     "react",
